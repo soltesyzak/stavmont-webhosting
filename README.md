@@ -1,4 +1,4 @@
-# Stavmont hosted app
+# Stavmont website
 Stavmont strecha project. Project done in 2018 for a client doing business in the field of reconstruction, repairs and construction of roofs. We are talking about representative single-page website, I collected clients requirements, offered design, developed and deployed project to be accessible on-line. Production link: http://www.strecha-stavmont.sk/
 
 ## Deployment
